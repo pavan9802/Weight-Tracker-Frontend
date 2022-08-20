@@ -3,13 +3,13 @@ import "firebase/auth";
 import { getAuth, initializeAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDnHj_91gyn5U2MycImF9PLiYx57X1xqj4",
-  authDomain: "weighttracker-development.firebaseapp.com",
-  projectId: "weighttracker-development",
-  storageBucket: "weighttracker-development.appspot.com",
-  messagingSenderId: "189048376390",
-  appId: "1:189048376390:web:cbc0279116682eade80e47",
-  measurementId: "G-HHWWRB9Q6L",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 const app = initializeApp(firebaseConfig);
 
